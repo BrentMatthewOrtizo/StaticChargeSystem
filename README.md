@@ -18,7 +18,7 @@ An add-on mechanic for Roll-a-Ball games. The player builds static energy while 
 5. Play → roll for ~5 s → press `E` to pulse.
 
 ## Folder Structure
-StaticChargSystem/
+StaticChargeSystem/
 - Materials/
 - Prefabs/
 - Scripts/
