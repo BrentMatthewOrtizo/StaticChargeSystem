@@ -1,5 +1,3 @@
-# StaticChargeSystem
-
 # Static Charge System
 
 An add-on mechanic for Roll-a-Ball games. The player builds static energy while rolling and releases it to push objects, activate switches, and open gates.
